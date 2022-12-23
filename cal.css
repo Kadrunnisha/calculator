@@ -8,10 +8,10 @@
     margin-top: 80px; 
     background-color:black;
     box-shadow: 10px 10px 10px skyblue;
-    background-image: url(./OLO2ED0.JPG);
+    background-image: url(./OLO2ED0.jpg);
 }
 body{
-    background-image: url(./OLO2ED0.JPG);
+    background-image: url(./OLO2ED0.jpg);
     /* display: flex;
     justify-content: center;
     align-items: center;
@@ -60,7 +60,7 @@ body{
     justify-content: center;
     align-items: center;
     box-shadow: 5px 7px 7px skyblue;
-    background-image: url(./room.JPG);
+    background-image: url(./room.jpg);
 }
 .d3{
     border: 2px solid black;
@@ -71,7 +71,7 @@ body{
     font-weight: bolder;
     font-size: 2rem;
     box-shadow:5px 5px 5px skyblue ;
-    background-image: url(./room.JPG);
+    background-image: url(./room.jpg);
     margin: 0px;
     
 }
